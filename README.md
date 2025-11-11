@@ -95,6 +95,7 @@ Beyond semantic chunking, the library provides a complete text processing toolki
 | **Sentencer** | Splits by punctuation        | Natural sentence boundaries    |
 | **Slicer**    | Fixed delimiter splitting    | CSV, structured data           |
 | **Chunker**   | Fixed-size chunks            | Token limits, simple splitting |
+| **Tagger**    | Tag bounded chunks           | Markup data                    |
 | **Sorter**    | Semantic sorting of data     | Organizing similar items       |
 | **Identity**  | Entire input as one chunk    | Small documents                |
 
